@@ -1,0 +1,9 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="200" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <path d="m 50, 80 l 50, -10 c -10, 10 -25, 25 -30, 40 l -25, 1 s -10, -10, 0, -30"
+          stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
+    />
+</svg>

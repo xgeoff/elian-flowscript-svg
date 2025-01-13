@@ -1,0 +1,10 @@
+<svg version="1.1"
+     baseProfile="full"
+     width="200" height="200"
+     xmlns="http://www.w3.org/2000/svg">
+
+    <path d="M 10, 10 L 50, 15 C 25, 20, 25, 15, 30, 10 L 60, 5"
+          stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M 10, 70 l 50, 75 C 25, 80, 25, 75, 30, 80 l 60, 5"
+          stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+</svg>
