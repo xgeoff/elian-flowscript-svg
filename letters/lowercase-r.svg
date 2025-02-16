@@ -3,7 +3,7 @@
      width="200" height="200"
      xmlns="http://www.w3.org/2000/svg">
 
-    <path d="m 50 80 l 50 -10 c -10 30, 0 25, -10 40"
+    <path d="m 50 130 l 10 -50 c 10 -5, 0 0, 35 -5 c 10 60, -15 50, -10 50 c -0 -40, 20 -50, -15 -40"
           stroke="black" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"
     />
 </svg>
